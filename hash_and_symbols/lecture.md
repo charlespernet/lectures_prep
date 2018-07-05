@@ -1,13 +1,13 @@
-#Recap data types
+## Recap data types
  - Integer
  - Float
  - Boolean
  - String
  - Array
 
-#Array vs Hash
+## Array vs Hash
 
-Students example
+[livecode] Students example
 
 ```ruby
   students =     [ "Peter", "Mary", "George", "Emma" ]
@@ -25,20 +25,20 @@ vs
   }
 ```
 
-# Manipulate hashes
+## Manipulate hashes
 
-Play with slides
+[livecode] Read / Add / Update / Delete / Iterate
 
-# Introduce symbols
+## Introduce symbols
 
 They are **identifiers**
 
-# Hash as last method argument
+## Hash as last method argument
 
 [livecode] html generator
 introduce Rails
 
-# Data format
+## Data format
 
   - CSV => Array
   - JSON => Hash
