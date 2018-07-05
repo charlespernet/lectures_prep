@@ -24,3 +24,22 @@ vs
     "Emma" => 20
   }
 ```
+
+# Manipulate hashes
+
+Play with slides
+
+# Introduce symbols
+
+They are **identifiers**
+
+# Hash as last method argument
+
+[livecode] html generator
+introduce Rails
+
+# Data format
+
+  - CSV => Array
+  - JSON => Hash
+  introduce APIs
